@@ -1,0 +1,17 @@
+body {
+    background-color:#092635 ;
+}
+
+.inputShape {
+    background-color: #9EC8B9;
+}
+
+.buttonwards {
+    background-color: #1B4242;
+    color: white;
+}
+
+.buttonwards:hover {
+    background-color: white;
+    color: #1B4242;
+}
